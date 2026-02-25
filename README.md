@@ -75,7 +75,7 @@ You can roll by **tapping the paw button**, or — the fun part — just **shake
 
 | Main Screen | Rolling (Paw Swipe) | History Sheet |
 |:-----------:|:-------------------:|:-------------:|
-| <img src="screenshots/main.png" width="180"/> | <img src="screenshots/rolling.png" width="180"/> | <img src="screenshots/history.png" width="180"/> |
+| <img src="screenshot/mainscreen.png" width="180"/> | <img src="screenshot/rolling.png" width="180"/> | <img src="screenshot/history.png" width="180"/> |
 | Roll with a tap or shake | Giant paw animation sweeps in | Last 5 rolls in a bottom sheet |
 
 </div>
